@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HodorVault.Data.Migrations", "HodorVault.Data.Migrations\HodorVault.Data.Migrations.csproj", "{0BBE585D-ECFD-40D2-9C72-57F5C40270A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HodorVault.Data", "HodorVault.Data\HodorVault.Data.csproj", "{0A21328E-E3E7-42A5-8292-CB7C93AEC775}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HodorVault.Api", "HodorVault.Api\HodorVault.Api.csproj", "{4E7D72A0-2754-44BD-8B26-8579F4622E86}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HodorVault.Data.Tests", "HodorVault.Data.Tests\HodorVault.Data.Tests.csproj", "{A5521449-F4A2-41EB-98D7-6322B47E9764}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "HodorVault.Web", "Hodorvault.Web\HodorVault.Web.njsproj", "{EA40D9BB-32EE-43C5-9DBB-A147E8F1A3A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8B2B7617-4572-4D65-860D-BCF01C76E5A0}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BBE585D-ECFD-40D2-9C72-57F5C40270A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BBE585D-ECFD-40D2-9C72-57F5C40270A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BBE585D-ECFD-40D2-9C72-57F5C40270A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BBE585D-ECFD-40D2-9C72-57F5C40270A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A21328E-E3E7-42A5-8292-CB7C93AEC775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A21328E-E3E7-42A5-8292-CB7C93AEC775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A21328E-E3E7-42A5-8292-CB7C93AEC775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A21328E-E3E7-42A5-8292-CB7C93AEC775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E7D72A0-2754-44BD-8B26-8579F4622E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7D72A0-2754-44BD-8B26-8579F4622E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7D72A0-2754-44BD-8B26-8579F4622E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E7D72A0-2754-44BD-8B26-8579F4622E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5521449-F4A2-41EB-98D7-6322B47E9764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5521449-F4A2-41EB-98D7-6322B47E9764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5521449-F4A2-41EB-98D7-6322B47E9764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5521449-F4A2-41EB-98D7-6322B47E9764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA40D9BB-32EE-43C5-9DBB-A147E8F1A3A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA40D9BB-32EE-43C5-9DBB-A147E8F1A3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA40D9BB-32EE-43C5-9DBB-A147E8F1A3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA40D9BB-32EE-43C5-9DBB-A147E8F1A3A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FD19B1B-8B80-49E0-A356-1F13C4ED87E9}
+	EndGlobalSection
+EndGlobal
