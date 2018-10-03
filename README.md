@@ -18,6 +18,6 @@ You need to have an .env file with
 Go to Hodorvault.Web folder and run following commands.
 
 ```sh
-npm install
-npm run dev
+yarn install
+yarn run dev
 ```
