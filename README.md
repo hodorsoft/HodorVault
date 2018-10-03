@@ -1,6 +1,6 @@
 ﻿# HodorVault
 
-App with dotnet core backend with Vue frontend. Just for portfolio purposes.
+App with dotnet core backend and Vue frontend. Just for portfolio purposes.
 
 ## Backend installation
 
